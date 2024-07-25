@@ -1,0 +1,14 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.hero-section {
+  background-color: #343a40;
+  color: white;
+  padding: 4rem 0;
+}
+.cta-button {
+  padding: 15px 25px;
+  font-size: 18px;
+}
